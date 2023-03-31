@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 49f2a3863c2a6694fb7b07d6a248d941, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -1585980852, guid: 49f2a3863c2a6694fb7b07d6a248d941, type: 3}
+  - {fileID: 461319156, guid: 49f2a3863c2a6694fb7b07d6a248d941, type: 3}
+  - {fileID: 1877595553, guid: 49f2a3863c2a6694fb7b07d6a248d941, type: 3}
+  - {fileID: 1768975163, guid: 49f2a3863c2a6694fb7b07d6a248d941, type: 3}
+  - {fileID: -1669538453, guid: 49f2a3863c2a6694fb7b07d6a248d941, type: 3}
+  - {fileID: -1097104763, guid: 49f2a3863c2a6694fb7b07d6a248d941, type: 3}
+  - {fileID: -775199835, guid: 49f2a3863c2a6694fb7b07d6a248d941, type: 3}
+  - {fileID: 2113112155, guid: 49f2a3863c2a6694fb7b07d6a248d941, type: 3}
+  - {fileID: 1443627300, guid: 49f2a3863c2a6694fb7b07d6a248d941, type: 3}
+  - {fileID: -1807497364, guid: 49f2a3863c2a6694fb7b07d6a248d941, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - tilesetfertig_9
+  - tilesetfertig_8
+  - tilesetfertig_5
+  - tilesetfertig_4
+  - tilesetfertig_7
+  - tilesetfertig_6
+  - tilesetfertig_1
+  - tilesetfertig_0
+  - tilesetfertig_3
+  - tilesetfertig_2
+  m_RenderDataMap: {}
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0
