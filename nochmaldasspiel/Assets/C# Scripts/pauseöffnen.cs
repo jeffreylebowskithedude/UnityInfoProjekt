@@ -13,7 +13,7 @@ public class pauseöffnen : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        pauseMenuUI.SetActive(true);
+        //pauseMenuUI.SetActive(true);
     }
 
     // Update is called once per frame
